@@ -1,7 +1,7 @@
 <div align = "center" />
   <br>
   <a href = "https://discord.com/users/980130678521884732" target = "_blank" />
-    <img src = "https://lanyard.cnrad.dev/api/472162226686394371" />
+    <img src = "https://lanyard.cnrad.dev/api/980130678521884732" />
   </a>
   <br>
 </div>
